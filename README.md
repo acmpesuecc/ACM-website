@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Clone this repo and then open you termial to the directory, use 
+Clone this repo and then open your termial to the directory, use 
 ```bash
 cd directorypath
 
